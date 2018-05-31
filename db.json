@@ -12,6 +12,11 @@
     "name": "typicode",
     "details": {
       "First": "JJ",
-      "Last": "Smith"}
+      "Last": "Smith",
+      "Children": {
+        "Oldest": "Sam",
+        "Youngest": "Bob"
+      }
+    }
   }
 }
